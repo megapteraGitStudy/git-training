@@ -6,6 +6,6 @@ public class Rebase {
     }
 
     private void run() {
-        
+        System.out.println("ㅎㅇ");
     }
 }
