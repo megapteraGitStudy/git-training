@@ -8,7 +8,6 @@
 - remote/branch의 형식으로 되어있다.
 
 
-
 - fetch 했을때와 안했을때 비교해보기 (merge)
 
 ## Tracking Branch란
